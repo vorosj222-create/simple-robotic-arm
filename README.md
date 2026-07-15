@@ -1,3 +1,7 @@
+<img width="4624" height="2604" alt="20211225_002616 1" src="https://github.com/user-attachments/assets/ada3093f-8c66-41b4-bb85-c9f811e0047e" />
+
+
+
 I designed this small robotic arm 5 years ago as a Christmas gift for my grandson. Originally, it was only controlled remotely via a smartphone app. Now my grandson is 13, and I am teaching him how to program. I try to find interesting topics so he doesn't get bored. We wrote new software for the old toy using AI assistance.
 
 The arm was designed in Fusion 360. I modified the stepper motors to a 4-wire configuration following a mod found online; this makes them stronger, and they are driven by TMC2208 drivers. The 28BYJ-48 motors are cheap and have a built-in gearbox, but unfortunately, the backlash is quite significant, so the arm is not very precise. However, for games and education, it is perfectly fine, as the candy-picking task allows for a 1–2 mm margin of error.
